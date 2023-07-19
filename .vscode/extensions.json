@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "esbenp.prettier-vscode",
+        "bognaum.emmet-commands-and-keybindings"
+    ]
+}
